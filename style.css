@@ -1,0 +1,21 @@
+/* Global Styles */
+html, body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+p{
+    margin: 2em;
+}
+
+footer {
+    margin-top: 5em;
+    font-weight: bold;
+}
+
+#tribute-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
